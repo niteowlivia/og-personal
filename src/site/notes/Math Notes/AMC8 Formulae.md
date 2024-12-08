@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math-notes/amc-8-formulae/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/math-notes/amc-8-formulae/"}
 ---
 
 
